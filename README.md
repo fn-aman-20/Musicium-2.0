@@ -11,6 +11,7 @@ This is a modified version of the original Musicium Discord bot repo at <a href=
 * Open replit and create a new repl
 * Click import from GitHub and paste the URL
 * Add a new secret named `main_auth` and enter your bot token
+* For copyright reasons no changes have been made to the dashboard
 ### How To Make It 24/7 Online
 * Simply run the bot and copy the URL in the mini window that pops up aside, above the shell/console
 * Go to <a href='https://freshping.io/'>freshping.io</a>, make a new account and add a new check
